@@ -1,0 +1,4 @@
+For the sign up feature page objects were created in order to get the elements from the url to iteract with the different fields in order to full them out.
+a faker email was created in order to run the automation multiple times without using the same email address and same account over and over again.
+for the add to cart feature i used the url to navigate to the page and used to page object method with the elements in order to click on the item i wanted to purchase. after the item is selected, the size and the color of the item is selected then the add to cart button is clicked.
+after the product is added to the cart the cart icon is then clicked to see the proceed to checkout button which is then clicked. this then took me to the shipping page where i entered my address and selected my shipping method after which the order is confirmed.
